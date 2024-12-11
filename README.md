@@ -4,6 +4,8 @@
 
 <h3 tabindex="-1" class="heading-element" dir="auto">Languages &amp; Tools</h3><a target="_blank" rel="noopener noreferrer nofollow"
 
+## Languages & Tools
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
