@@ -2,7 +2,8 @@
 
 💻 Product Manager @ Ride-hailing, Fintech<br>
 
-![Backwards Parrot]((https://emoji.gg/emoji/5674_backwardsparrot) Product Manager @ Ride-hailing, Fintech<br>
+![Backwards Parrot](https://cdn3.emoji.gg/emojis/5674_backwardsparrot.gif) Product Manager @ Ride-hailing, Fintech
+
 ### Languages & Tools 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
