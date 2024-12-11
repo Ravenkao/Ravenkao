@@ -2,9 +2,7 @@
 
 💻 Product Manager @ Ride-hailing, Fintech<br>
 
-<h3 tabindex="-1" class="heading-element" dir="auto">Languages &amp; Tools</h3><a target="_blank" rel="noopener noreferrer nofollow"
-
-### <h3_ Languages & Tools 
+### Languages & Tools 
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
