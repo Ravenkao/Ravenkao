@@ -1,8 +1,6 @@
 ## Hi there, I'm Raven 🐦‍⬛
 
-💻 Product Manager @ Ride-hailing, Fintech<br>
-
-![Backwards Parrot](https://cdn3.emoji.gg/emojis/5674_backwardsparrot.gif) Product Manager @ Ride-hailing, Fintech
+<img src="https://cdn3.emoji.gg/emojis/5674_backwardsparrot.gif" alt="Backwards Parrot" width="20" height="20"> Product Manager @ Ride-hailing, Fintech
 
 ### Languages & Tools 
 
