@@ -1,6 +1,8 @@
 ## Hi there, I'm Raven 🐦‍⬛
 
 <img src="https://cdn3.emoji.gg/emojis/5674_backwardsparrot.gif" alt="Backwards Parrot" width="30" height="30"> Product Manager @ Mobility, Fintech | CS @ Penn
+🟩 silently making progress on AI project
+
 
 ### Languages & Tools 
 
