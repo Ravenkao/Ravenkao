@@ -6,7 +6,9 @@
 
 
 ### Languages & Tools 
-
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white&style=flat)
+![Lovable](https://img.shields.io/badge/-Lovable-FF69B4?logo=heart&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
