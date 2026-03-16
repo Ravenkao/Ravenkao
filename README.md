@@ -7,6 +7,7 @@ AI-native Product Manager | CS @ Penn<br>
 
 ### Languages & Tools 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![Claude](https://img.shields.io/badge/-Claude-FF9900?logo=anthropic&logoColor=white&style=flat)
 ![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white&style=flat)
 ![Lovable](https://img.shields.io/badge/-Lovable-FF69B4?logo=heart&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
